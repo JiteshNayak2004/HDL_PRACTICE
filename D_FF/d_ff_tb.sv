@@ -27,6 +27,7 @@ initial
         $display("the output of q is %b",q_tb);
         d_tb=1; #10;
         $display("the output of q is %b",q_tb);
+        $finish;
     end
 
     
